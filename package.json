@@ -1,0 +1,22 @@
+{
+  "name": "react-data-display",
+  "version": "1.0.0",
+  "description": "React application displaying data from API REST calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrerosa/react-data-display.git"
+  },
+  "author": "Alexandre ROSA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandrerosa/react-data-display/issues"
+  },
+  "homepage": "https://github.com/alexandrerosa/react-data-display#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

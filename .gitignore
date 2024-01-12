@@ -1,0 +1,38 @@
+# Dependencies
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Local environment configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Browser cache files
+.cache
+/public
+
+# Directories generated at build time
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logging files
+*.log
+
+# Editor-specific directories
+/.idea
+/.vscode
+/*.sublime-project
+/*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+
+# Profiling files
+/coverage
